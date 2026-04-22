@@ -5,7 +5,7 @@ A modern full-stack real estate platform built with Next.js, TypeScript, Tailwin
 # Credentials for Testing
 
 - **Admin**
-  - Email:monirhossain@gmail.com
+  - Email:monirhossain6163@gmail.com
   - Password:123456789
 
 - **Agent**
@@ -14,12 +14,12 @@ A modern full-stack real estate platform built with Next.js, TypeScript, Tailwin
 
 - **user**
   - Email:monirdev1@gmail.com
-  - Password:12345678
+  - Password:123456789
 
 # Live Demo
 
-- **Frontend:** []()
-- **Backend API:** []()
+- **Frontend:** [https://real-estate-client-drab-three.vercel.app](https://real-estate-client-drab-three.vercel.app)
+- **Backend API:** [https://real-state-server-cyan.vercel.app](https://real-state-server-cyan.vercel.app)
 
 ## 🚀 Features
 
