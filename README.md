@@ -21,7 +21,7 @@ A modern full-stack real estate platform built with Next.js, TypeScript, Tailwin
 - **Frontend:** [https://real-estate-sage-gamma.vercel.app](https://real-estate-sage-gamma.vercel.app)
 - **Backend API:** [https://real-estate-server-theta.vercel.app](https://real-estate-server-theta.vercel.app)
 
-## 🚀 Features
+## Features
 
 ### Public Features
 
@@ -58,7 +58,7 @@ A modern full-stack real estate platform built with Next.js, TypeScript, Tailwin
 - **Booking Management** - View and manage all system bookings
 - **User Status Control** - Change user status with real-time updates
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Framework:** Next.js 16.1.6
 - **Language:** TypeScript

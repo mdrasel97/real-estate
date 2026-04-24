@@ -56,6 +56,8 @@ export const getCurrentUser = async () => {
   }
 };
 
+
+// Admin-only action to fetch all users with pagination and search
 export const getAllUsers = async () => {
   try {
     const cookieStore = await cookies();
