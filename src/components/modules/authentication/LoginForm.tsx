@@ -73,19 +73,19 @@ export function LoginForm({
   const demoCredentials = [
     {
       role: "Admin",
-      email: "monirhossain6163@gmail.com",
+      email: "mollarasel972@gmail.com",
       password: "123456789",
       color: "bg-red-500 hover:bg-red-600",
     },
     {
       role: "Agent",
-      email: "ultrasrealpro@gmail.com",
+      email: "sayadfarazi@gmail.com",
       password: "12345678",
       color: "bg-blue-500 hover:bg-blue-600",
     },
     {
       role: "User",
-      email: "monirdev1@gmail.com",
+      email: "raseldev1@gmail.com",
       password: "123456789",
       color: "bg-green-500 hover:bg-green-600",
     },

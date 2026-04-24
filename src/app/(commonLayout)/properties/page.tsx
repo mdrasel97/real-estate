@@ -408,7 +408,7 @@ export default function PropertiesPage() {
             <div className="flex gap-3 pt-2">
               <Button
                 type="submit"
-                className="bg-blue-600 hover:bg-blue-700 text-white flex-1 h-10 font-medium"
+                className="bg-primary hover:bg-primary/90 text-white flex-1 h-10 font-medium"
               >
                 Search Properties
               </Button>
@@ -442,7 +442,7 @@ export default function PropertiesPage() {
                     </span>{" "}
                     {totalProperties === 1 ? "property" : "properties"}
                     {hasActiveFilters && (
-                      <span className="text-blue-600 dark:text-blue-400 ml-2">
+                      <span className="text-primary dark:text-primary/90 ml-2">
                         (filtered)
                       </span>
                     )}
@@ -530,7 +530,7 @@ export default function PropertiesPage() {
             {hasActiveFilters && (
               <Button
                 onClick={handleReset}
-                className="bg-blue-600 hover:bg-blue-700 text-white"
+                className="bg-primary hover:bg-primary/90 text-white"
               >
                 Clear all filters
               </Button>
@@ -586,7 +586,7 @@ export default function PropertiesPage() {
             </div>
           </div>
         )}
-      </div>
+      </div> 
     </div>
   );
 }
